@@ -1,1 +1,3 @@
 this is the first test file to check it.
+
+we are about to use the git now.
