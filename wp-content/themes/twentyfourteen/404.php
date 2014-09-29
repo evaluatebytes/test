@@ -19,6 +19,7 @@ get_header(); ?>
 
 			<div class="page-content">
 				<p><?php _e( 'It looks like nothing was found at this location. Maybe try a search?', 'twentyfourteen' ); ?></p>
+				<h2>Error - caution this may leed to colapse.</h2>
 
 				<?php get_search_form(); ?>
 			</div><!-- .page-content -->
